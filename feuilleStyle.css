@@ -1,0 +1,58 @@
+
+body
+{
+    background-color: #0B1616;
+    color : white;
+    font-family: 'Comic Sans MS';
+}
+
+title
+{
+    width: 200px;
+    padding: 10px;
+}
+
+#menu
+{
+    min-width: 200px;
+    color: white;
+    float: left;
+    
+}
+
+#contenu
+{
+    min-width: 100%;
+    color: white;
+    padding-left: 250px;
+}
+
+p
+{
+    text-align: center;
+    text-align: justify;
+    font-size: 14px;
+    font-family: 'Comic Sans MS';
+}
+
+h1
+{
+    text-align: center;
+    text-decoration: underline;
+    font-size: 36px;
+    font-family: 'Comic Sans MS';
+    margin-bottom: 100px;
+}
+
+table
+{
+    border-style: double;
+    border-radius: 10px;
+    width: 70%;
+}
+
+a:visited,a, a:hover 
+{
+    color: white;
+    text-decoration: none;
+}
